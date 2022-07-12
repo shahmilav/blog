@@ -1,7 +1,8 @@
 <header>
   <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: black;">
     <div class="container-fluid">
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+      <button aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"
+              data-bs-target="#navbarTogglerDemo01" data-bs-toggle="collapse" type="button">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
@@ -13,8 +14,9 @@
 
         </ul>
 
-          <button onclick="darkmode.toggle();" style="background-color: black; border: 0px" type="checkbox" role="switch" id="darkmode-toggle"><i class="text-light bi bi-moon-fill" style="font-size: large"></i>
-            </button>
+        <button id="darkmode-toggle" onclick="darkmode.toggle();" role="switch" style="background-color: black; border: 0px"
+                type="checkbox"><i class="text-light bi bi-moon-fill" style="font-size: large"></i>
+        </button>
 
       </div>
     </div>

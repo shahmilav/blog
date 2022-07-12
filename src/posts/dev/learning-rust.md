@@ -4,7 +4,8 @@ layout: "posts.njk"
 tagged: ["dev", "rust"]
 ---
 
-Rust is hard. Currently working on a simple CLI hangman game with it. I feel like Java is so much easier, but Rust is more fun. Still can't understand `for` loops.
+Rust is hard. Currently working on a simple CLI hangman game with it. I feel like Java is so much easier, but Rust is
+more fun. Still can't understand `for` loops.
 
 I have no idea why this fails. I'm sure it is obvious.
 
@@ -24,8 +25,8 @@ fn choose_lang(languages: HashMap<String, String>) -> String {
 }
 ```
 
-
 And the annoying error...
+
 ```text
 thread 'main' panicked at 'Language failed to be chosen.', src/main.rs:42:5
 stack backtrace:

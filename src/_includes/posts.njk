@@ -3,11 +3,11 @@
 
 <body class="d-flex flex-column h-100">
 
-  {% include 'partials/header.html' %}
+{% include 'partials/header.html' %}
 
-  <main class="flex-shrink-0">
+<main class="flex-shrink-0">
     <h1>
-      {{ title }}
+        {{ title }}
     </h1>
     <em class="date">
         Posted on {{ page.date | postDate }}
@@ -16,13 +16,13 @@
     <br/>
 
     {{ content | safe }}
-  </main>
+</main>
 
-  {% include 'partials/darkmode.html' %}
+{% include 'partials/darkmode.html' %}
 
-  <footer class="footer mt-auto py-3" id="footer">
-      
-  </footer>
+<footer class="footer mt-auto py-3" id="footer">
+
+</footer>
 
 </body>
 </html>
