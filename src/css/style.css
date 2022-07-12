@@ -35,3 +35,7 @@ main {
 pre {
     isolation: isolate;
 }
+
+code {
+    font-family: "JetBrains Mono NL", "Noto Sans Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace;
+}
