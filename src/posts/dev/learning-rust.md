@@ -2,6 +2,7 @@
 title: "Learning Rust"
 layout: "posts.njk"
 tagged: ["dev", "rust"]
+date: 2022-07-11 23:00:00.10
 ---
 
 Rust is hard. Currently working on a simple CLI hangman game with it. I feel like Java is so much easier, but Rust is
