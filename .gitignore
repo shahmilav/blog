@@ -6,3 +6,6 @@ public/
 
 # intellij
 .idea/
+
+# Local Netlify folder
+.netlify
