@@ -19,7 +19,7 @@ View live [here](https://milavblog.netlify.app).
 Fonts used are:
 - `Noto Serif` for headings
 - `Inter` for body text
-- `JetBrains Mono` and `Noto Sans Mono` for code blocks.
+- `Fira Mono` for code blocks.
 
 ## How it works
 I simply have to edit/create markdown (`.md`) files in `./src/posts/`. This links the file to the [posts](https://milavblog.netlify.app/posts/) page. 
