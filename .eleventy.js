@@ -11,6 +11,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
     eleventyConfig.addPassthroughCopy("./src/css/");
     eleventyConfig.addPassthroughCopy("./src/favicons/");
+    eleventyConfig.addPassthroughCopy("./src/images/");
+
 
     return {
         dir: {
