@@ -21,17 +21,3 @@ Fonts used are:
 - `Inter` for body text
 - `Fira Mono` for code blocks.
 
-## How it works
-I simply have to edit/create markdown (`.md`) files in `./src/posts/`. This links the file to the [posts](https://milavblog.netlify.app/posts/) page. 
-Posts need to have basic frontmatter.
-
-```markdown
----
-title: "Post name"
-layout: "posts.njk"
-tags: ['tag1', 'tag2']
----
-
-## Content starts here.
-Hello, world!
-```

@@ -82,7 +82,7 @@ pre[class*="language-"] {
     padding: 0.2em 0.3em;
     border-radius: 0.3em;
     white-space: normal;
-}
+
 
 /* Print */
 @media print {
@@ -125,7 +125,7 @@ pre[class*="language-"] {
     color: hsl(355, 65%, 65%);
 }
 
-.token.selector,
+.token.selecto,
 .token.string,
 .token.char,
 .token.builtin,
