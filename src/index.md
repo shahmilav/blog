@@ -4,7 +4,5 @@ layout: "base.njk"
 templateEngineOverride: njk,md
 ---
 
-Hi! My name is Milav. I am a 14-year-old kid who loves to code and write.
-One day I thought, _why not combine the two?_ Thus, this blog was born.
-
-I write about everything, from coding to travel and anything in between. Enjoy! 
+My name is Milav. I love to write code and unecessarily configure things.
+I write about whatever I want, from coding to travel to Emacs.
