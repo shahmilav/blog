@@ -1,6 +1,5 @@
 ---
 title: "A perfect coding setup"
-layout: "posts.njk"
 date: 2022-07-15 23:00:00.10
 tagged: ["dev", "design"]
 ---

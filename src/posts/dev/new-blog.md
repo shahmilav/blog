@@ -1,6 +1,5 @@
 ---
 title: "New Blog: Using Eleventy"
-layout: "posts.njk"
 date: 2022-07-8 23:00:00.10
 tagged: ['dev', 'blog']
 --- 

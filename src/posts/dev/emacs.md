@@ -1,7 +1,6 @@
 ---
 title: "In love with Emacs"
 date: 2022-07-18 23:00:00.10
-layout: "posts.njk"
 tagged: ["dev", "emacs"]
 ---
 
