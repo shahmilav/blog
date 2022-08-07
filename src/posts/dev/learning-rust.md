@@ -1,6 +1,5 @@
 ---
 title: "Learning Rust"
-layout: "posts.njk"
 tagged: ["dev", "rust"]
 date: 2022-07-11 23:00:00.10
 ---

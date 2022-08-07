@@ -1,6 +1,5 @@
 ---
 title: "Fixed the error!"
-layout: "posts.njk"
 date: 2022-07-12 23:00:00.10
 tagged: ["dev", "rust"]
 ---
