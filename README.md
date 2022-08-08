@@ -15,9 +15,5 @@ View live [here](https://milavblog.netlify.app).
 - [PrismJS](https://prismjs.com/) for syntax highlighting in code blocks
 - [Bootstrap](https://getbootstrap.com/) to make the website look good
 
-## Fonts used
-Fonts used are:
-- `Noto Serif` for headings
-- `Inter` for body text
-- `Fira Mono` for code blocks.
+
 
