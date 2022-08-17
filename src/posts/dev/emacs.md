@@ -4,7 +4,7 @@ date: 2022-07-18 23:00:00.10
 tagged: ["dev", "emacs"]
 ---
 
-![Emacs blogging workflow](../../../images/emacs.png)
+![Emacs blogging workflow](/images/emacs.png)
 
 The journey began with VSCode. I moved there after a few years with IntelliJ, mostly due to the hype. Never loved it, stayed with it for a year. Around this time, I also began launching `nano` from Terminal.app; it was my first CLI editor. Mainly used nano to edit configuration files. 
 
