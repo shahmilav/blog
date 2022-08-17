@@ -16,12 +16,25 @@
     <br/>
 
     {{ content | safe }}
+    
+    
 </main>
 
 {% include 'partials/scripts.html' %}
 
-<footer class="footer mt-auto py-3" id="footer">
-
+<footer class="footer mt-auto py-3">
+	<div class="container">
+			{% if prevPost.url %}
+    			<a href="{{ prevPost.url }}">
+    			<i class="bi bi-chevron-left"></i>previous post
+    			</a>
+			{% endif %}
+			&ensp;&ensp;&ensp;&ensp;
+			{% if nextPost.url %}
+    			<a href="{{ nextPost.url }}">
+    			next post<i class="bi bi-chevron-right"></i></a>
+			{% endif %}
+	</div>
 </footer>
 
 </body>
