@@ -1,27 +1,57 @@
 <!DOCTYPE html>
+
+<!-- Oh hi! Nice seeing you here. 👋
+	 Clearly you must be a tech nerd like me. Or you just hit <F12> ...
+	 Perhaps you came to steal my code...
+	 I don't care, welcome! Steal away.
+	 
+	 Have fun reading my blog!
+	 
+	 ~ Milav Shah, <shahmilav@gmail.com> ~
+	 ~ GitHub: shahmilav                 ~
+-->
+
 {% include 'partials/head-meta.html' %}
 
-<body>
+<body class="page light background">
 
 {% include 'partials/header.html' %}
 
-<main>
+<main class="flex-shrink-0">
+<div class="container">
     <h1>
         {{ title }}
     </h1>
-    <br/>
+
     {{ content | safe }}
 
     <h2>Recent Posts</h2>
         <ul>
             {% for post in collections.posts | reverse %}
                 <li>
-                    <a href="{{ post.url }}">{{ post.data.title }}</a> ({{ post.date | postDate  }})
+                    <a href="{{ post.url }}">{{ post.data.title }}</a> 
+                    ({{ post.date | postDate  }})
                 </li>
             {% endfor %}
         </ul>
-
+</div>
 </main>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<footer class="footer mt-auto py-3">
+  <div class="container">
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/shahmilav" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @shahmilav on GitHub">My GitHub @shahmilav</a>
+
+  </div>
+</footer>
+
+
 
 {% include 'partials/scripts.html' %}
 

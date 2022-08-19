@@ -1,7 +1,7 @@
 <header>
   <nav
     class="navbar navbar-expand-lg navbar-dark"
-    style="background-color: black"
+    style="background-color: #1d2127"
   >
     <div class="container-fluid">
       <button
@@ -28,26 +28,25 @@
               class="nav-link"
               href="/posts/"
               style="font-family: Menlo, Consolas, DejaVu Sans Mono, monospace"
-              >ARCHIVE</a
+              >archive</a
+            >
+          </li>
+          <li class="nav-item">
+            <a
+              class="nav-link"
+              href="/whoami/"
+              style="font-family: Menlo, Consolas, DejaVu Sans Mono, monospace"
+              >whoami</a
             >
           </li>
         </ul>
 
-        <div class="form-check form-switch">
-          <input
-            class="form-check-input"
-            type="checkbox"
-            id="darkmode-toggle"
-            onclick="darkmode_launch();"
-          />
-          <label
-            id="darkmode-text"
-            style="font-family: Menlo, Consolas, DejaVu Sans Mono, monospace"
-            class="text-light form-check-label"
-            for="darkmode-toggle"
-            >DARK MODE</label
-          >
-        </div>
+    <div class="toggle">
+      <input type="checkbox" id="theme" class="toggle-input form-check-input">
+      <label for="theme" class="toggle-label text-light" style="font-family: Menlo, Consolas, DejaVu Sans Mono, monospace">
+        &nbsp;Dark Mode
+      </label>
+    </div>
       </div>
     </div>
   </nav>
