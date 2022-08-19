@@ -42,10 +42,14 @@
     />
     <link rel="manifest" href="/favicons/site.webmanifest" />
 
-    <script src="/js/labelCheck.js" defer></script>
+    <style>
+      .dark code {
+        color: #19ff00;
+      }
+    </style>
   </head>
 
-  <body>
+  <body class="page light background">
     {% include 'partials/header.html' %}
 
     <main>
@@ -83,7 +87,7 @@
       </code>
     </main>
 
-
+    <script src="/js/darkmode.js" defer></script>
 
     <script
       crossorigin="anonymous"
