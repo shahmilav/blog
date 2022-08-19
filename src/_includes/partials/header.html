@@ -1,7 +1,7 @@
 <header>
   <nav
     class="navbar navbar-expand-lg navbar-dark"
-    style="background-color: #121212"
+    style="background-color: #1d2127"
   >
     <div class="container-fluid">
       <button
@@ -41,21 +41,12 @@
           </li>
         </ul>
 
-        <div class="form-check form-switch">
-          <input
-            class="form-check-input"
-            type="checkbox"
-            id="darkmode-toggle"
-            onclick="darkmode_launch();"
-          />
-          <label
-            id="darkmode-text"
-            style="font-family: Menlo, Consolas, DejaVu Sans Mono, monospace"
-            class="text-light form-check-label"
-            for="darkmode-toggle"
-            >./dark</label
-          >
-        </div>
+    <div class="toggle">
+      <input type="checkbox" id="theme" class="toggle-input form-check-input">
+      <label for="theme" class="toggle-label text-light" style="font-family: Menlo, Consolas, DejaVu Sans Mono, monospace">
+        &nbsp;Dark Mode
+      </label>
+    </div>
       </div>
     </div>
   </nav>
