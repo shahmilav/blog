@@ -17,7 +17,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta name="theme-color" content="black" />
 
-    <title>This page was eaten by a sheep.</title>
+    <title>Aaah this page is missing!s</title>
 
     <link
       crossorigin="anonymous"
@@ -52,39 +52,30 @@
       href="/favicons/favicon-16x16.png"
     />
     <link rel="manifest" href="/favicons/site.webmanifest" />
-
-    <script src="/js/labelCheck.js" defer></script>
   </head>
 
-  <body>
+  <body class="page light background">
     {% include 'partials/header.html' %}
 
     <main>
-      <h1>This page was eaten by a sheep.</h1>
+    
+    <h1>Wait, this page doesn't exist!</h1>
+      
       <br />
+
+
       <h2>Code red! Error 404!</h2>
       <p>You probably know what this means...</p>
       <ul>
-        <li>Go <a href="/">home</a>. No sheep allowed.</li>
+        <li>Go <a href="/">home</a>. No vanishing pages here.</li>
         <li>
-          See all <a href="../posts">posts</a>. Don't worry, the sheep haven't
-          eaten these.
+          See all <a href="../posts">posts</a>. Don't worry, these posts <em>do</em> exist.
         </li>
       </ul>
     </main>
 
-    <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
-    <script>
-      const darkmode = new Darkmode();
+            <script src="/js/darkmode.js" defer></script>
 
-      function darkmode_launch() {
-        if (darkmode.isActivated()) {
-          darkmode.toggle();
-        } else {
-          darkmode.toggle();
-        }
-      }
-    </script>
 
     <script
       crossorigin="anonymous"
