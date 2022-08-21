@@ -44,7 +44,7 @@ We arrived at the Stonehenge bus stop; from there, they take you on buses to Sto
 
 At first, Stonehenge was hidden beneath a large hill. To our left was a large stretch of open land with two Neolithic burial mounds in the center. In front of us was a bunch of tall grass. As we walked closer along the path, we saw the Sarsen stone peak out from under the hill. 
 
-We approached Stonehenge and looked at the ancient monument. Built in about 3000 BC, without the help of modern technology such as the wheel, it was a sight to behold. Sarsen stones that weigh tons, brought from 20 miles south from the site, were lifted and arranged wonderfully. Perfectly marking the Summer and Winter solstices, it was magnificent.
+We approached Stonehenge and looked at the ancient monument. Built in about 3000 BC, without the help of modern technology such as the wheel, it was a sight to behold. Sarsen stones that weigh tons, brought from 20 miles south from the site, were lifted and arranged wonderfully. Perfectly marking the Summer and Winter solstices, it was magnificent. 
 
 The area simply had an ancient feel. Day felt it, I felt it, and I'm sure everyone else did. It was remarkable.
 
