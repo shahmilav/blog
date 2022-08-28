@@ -15,7 +15,7 @@ The first thing we did when we entered the gardens was the Butterfly Garden. It 
 
 After the garden, we wandered around. We saw all the old gardening equipment. There were so many things I could not tell how people knew what to use when. A two-handed saw, mechanical sprinkler, a unique blade just for oak trees. It was complicated stuff.
 
-Then, after the shed was filled with gardening equipment, we went towards the Adventure Park. Towards the center of the park, on our left, was a giant maze. This was the same maze Mumma had hyped two days ago, but we never got a chance to do.
+Then, after the shed was filled with gardening equipment, we went towards the Adventure Park. Towards the center of the park, on our left, was a giant maze. This was the same maze Mumma had hyped up two days ago, but we never got a chance to do.
 
 The competition was on: three families, each putting in £1 each. The winner earns it all.
 
@@ -32,18 +32,17 @@ After that, I reached the second podium, so I had to find a way to the maze's ce
 
 Eventually, I met Aarush again. I was running left, and he was running right. Looking at me, he said, "that's a dead end," and ran off. I decided to go check out the area by myself.
 
-It turns out Aarush was guessing. I ran down a large path under the second podium, around a large hedge wall, to the middle. Waving at Mumma and Day (still on the first podium), ran out. I ended up being the first, Aarush second, and Kavya third. Chaulamasi was the fourth one out.
+It turns out Aarush was guessing. I ran down a large path under the second podium, around a large hedge wall, to the middle. Waving at Mumma and Day (still on the first podium), ran out. I ended up being the first one out, Aarush second, and Kavya third. Chaulamasi was the fourth one out.
 
 Everyone else took _so_ long in the maze that Aarush and I decided to go again. This time, we got very lost. It took about twenty minutes to get out again; by then, we were exhausted. 
 
-We then went to the nearby pizzeria. We had Margherita pizza as well as _lots_ of ice. Britain has a severe problem with ice, water, and air conditioning, so we were thrilled when we got cups full of ice. Everyone ate some and put it on their faces; I even put one on my head!
+We then went to the nearby pizzeria. We had Margherita pizza as well as _lots_ of ice. Britain has a severe problem with [ice, water, and air conditioning](/posts/england/five-things-that-suck-about-england), so we were thrilled when we got cups full of ice. Everyone ate some ice and put it on their faces; I even put one in my pants!
 
 After eating the pizza, we began the walk to the main palace. We all decided to walk instead of paying £10 again for the train. It was much more scenic than the train. I took so many lovely pictures.
 
 Once we returned to the palace, we went to the gift shop. At first, it seemed meh, but it turned out to be good. Riana found something incredible - a brand new JellyCat Bashful Sheep, just like her favorite soft toy, Cotton. It is soft, how Cotton used to be before Riana played with it too much.
 
-There was also an excellent book that all three families bought; I got interested in a compass, pocket watch, and British coins. In the end, I bought a beautiful magnet of a British [Supermarine Spitfire](/posts/spitfire-fighter-jet.md). 
-
+There was also an excellent book that all three families bought; I got interested in a compass, pocket watch, and British coins. In the end, I bought a beautiful magnet of a British Supermarine Spitfire.
 
 ## The Great Lake
 

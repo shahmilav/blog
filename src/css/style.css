@@ -10,6 +10,10 @@
   --main-link-color: #6599ee;
 }
 
+.dev {
+font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+}
+
 svg {
   fill: black;
 }
@@ -77,7 +81,7 @@ pre {
 }
 
 code {
-  font-family: Menlo, Consolas, "DejaVu Sans Mono", monospace;
+  font-family: ui-monospace, Menlo, Consolas, "DejaVu Sans Mono", monospace;
 }
 
 img {

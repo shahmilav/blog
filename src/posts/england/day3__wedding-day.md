@@ -18,7 +18,7 @@ The gardens were also beautiful. It was very picturesque, and I took countless p
 
 Towards the front of the manor was a small swing. Everyone spent a lot of time on the swing, taking photos, swinging, and just talking. All of us cousins had so much fun in the gardens and on the swing.
 
-I didn’t pay much attention to the wedding (sorry), and I missed the _pheras_ and the actual marriage. However, what I missed in that I more than made up playing outside with my cousins. The weather was so good, and we had great fun playing and talking. I took at least fifty pictures that day.
+I didn’t pay much attention to the wedding ceremony (sorry), and I missed the _pheras_ and the actual marriage. However, what I missed in that, I more than made up playing outside with my cousins. The weather was so good, and we had great fun playing and talking. I took at least fifty pictures that day.
 
 ## The Reception
 
@@ -32,6 +32,6 @@ We (the group of cousins) also played with Alex, our second cousin who we met th
 
 Later in the night, after dinner, everyone danced. It was so much fun, jumping around and dancing. We danced for a long time, after which Kavya, Riana, and I sat outside, Aarush and Aatman tagging along.
 
-Later in the night, there were fireworks. It was cool; however, it felt like no one else had ever seen fireworks. In any case, the fireworks were fantastic; they lit up the entire English countryside.
+Later in the night, there were fireworks. It was cool, and was coordinated with the music perfectly. They were fantastic; they lit up the entire English countryside.
 
 We boarded the coach bus late at night when the party ended. To my amazement, Day wanted to stay for longer! I have not seen day have so much fun in a long time.

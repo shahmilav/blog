@@ -12,11 +12,12 @@ tagged: ["travel", "london2022"]
 `JFK, GATE A6` –– Our plane just landed at JFK, and we will be boarding soon. So
 far, today has been fun! We met Aarush and Aatman (my cousins), and we are now all
 chilling at the gate. Aarush is writing too, to imitate me. Mumma, for a good reason,
-banned me from coding for the entire trip. Instead, I am blogging, and I intend to document each day.
+banned me from coding for the entire trip. Instead, I am blogging, and I intend 
+to document each day.
 
-So far, I have taken amazing shots of the planes landing here, the cover picture
+So far, I have taken amazing pictures of the planes landing here, the cover picture
 being the best. The best moment was easily when the plane (the same one as the cover photo) landed, 
-pulling to the right of our window. We were taking pictures, and the pilot even waved!
+pulling right next to our window. We were taking pictures, and the pilot even waved!
 
 In any case, I really can’t wait for the trip. I won’t get much sleep today, due
 to time-zone differences<sup><code>[1]</code></sup>, but nonetheless, I intend 

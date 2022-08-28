@@ -51,3 +51,5 @@ The area simply had an ancient feel. Day felt it, I felt it, and I'm sure everyo
 People in the area were pretty weird, too - one old couple mentioned that aliens built this to suck energy from the Earth. Another was meditating, someone else praying as if this was still a religious shrine as it was 5000 years ago.
 
 After about an hour at the site, we took the bus back to the station, and drove to Windsor. We had a two hour drive to Crowne Plaza, and the next day was long, since we had to do Windsor Castle and Buckingham Palace.
+
+The adults had drinks at the bar at the hotel, so all of us kids had lots of fun until about 2am. No one wanted to sleep.
