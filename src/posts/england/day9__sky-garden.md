@@ -17,7 +17,7 @@ This wall has been coated with anti-grafitti paint.
 
 So that mission was a bust.
 
-Either way, it was super fun waking up early to go to the bridge. We got beautiful pictures and was really fun to see.
+Still, it was super fun waking up early to go to the bridge. We got beautiful pictures and was really fun to see.
 
 ## Sky Garden
 We then took the Tube back to Tower Hill, and checked out our rooms.
@@ -25,7 +25,7 @@ Then, we went to Sky Garden. We had wanted to go there before, but never got a c
 
 Sky Garden was really fun. There was a line, but after that, we got to go straight to the top.
 
-The view was beautiful. We could see Canary Wharf, the Tower of London, Tower Bridge, London City Hall, London Bridge, HMS Belfast, The Shard, London Eye, and St. Pauls Cathedral. In the distance, but still visible was Big Ben. Buckingham wasn't visible, because, as I've mentioned, it is in the complete other corner of London than everything else. It was stunning.
+The view was beautiful. We could see Canary Wharf, the Tower of London, Tower Bridge, London City Hall, London Bridge, HMS Belfast, The Shard, London Eye, and St. Pauls Cathedral. In the distance, but still visible was Big Ben. Buckingham wasn't visible, because, as I've mentioned, it is in the complete other corner of London than everything else. Either way, it was stunning.
 
 The outside balcony was cool, and so was the inside. It was a very nice place, defined by the amazing view of the entire London. In my opinion, we left too soon.
 
