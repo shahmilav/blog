@@ -19,7 +19,7 @@ heard of it, but it was _the_ mark of Oxford University. Almost every picture
 of Oxford includes this landmark. The stonework, architecture, and detail were
 astounding.
 
-The café, Vaults&Gardens, was beautiful, situated right underneath a church
+The café, Vaults&Gardens, was beautiful, situated right underneath a church.
 The food there – while expensive – tasted pretty good. I had avocado toast
 along with a half cup of coffee. While the others chose to sit inside, I sat in
 the beautiful weather, looking at Radcliffe and the Church.
@@ -35,7 +35,7 @@ through a significant heatwave lately.
 
 Christ Church College, as well as being the most famous college in Oxford (well,
 tied with Trinity, which was closed) is the same place where the Great Hall is in 
-the Harry Potter movies. Due to this, we wanted to go. However due to 
+the Harry Potter movies. Due to this, we wanted to go. However because of 
 expensive tickets and odd timings<code><sup>[1]</sup></code> it ended up being a
 bust. 
 
@@ -66,14 +66,14 @@ to Oxford's Natural History Museum. The first thing we see when we enter - is th
 shop! Riana looks at a bunch of soft toys, Aatman and Aarush run to the stones, 
 Kavya to the jewelry. I didn't like anything.
 
-After the shop, we went out into the museum. The number of dinosaur bones and
+After the shop, we went out into the museum. There were so many dinosaur bones and
 taxidermied animals. The animals were super soft, but I felt bad for them. 
 
 In the upstairs, there was an entire hallway of birds, another for gemstones, 
-and a third for bugs. The first two were pretty cool, the last not so much.
+and a third for bugs. The first two were pretty cool, the last, not so much.
 
 Outside the museum, there was this nice coffee shop with great vegan 
-options.
+options. We had a flat white and a flapjack.
 
 ### Meeting Mumma's friend
 
@@ -85,7 +85,8 @@ Kunal is very nice; he bought us cupcakes and truffles and did a lot for us.
 After talking with them for about thirty minutes, we went to a nice Indian 
 restaurant for dinner.
 
-Kunal's son, Krish, is a pretty cool person. At the restaurant, to Riana and Kavya's annoyance, Krish and I discussed English accents (his British is perfect) as well
+Kunal's son, Krish, is a pretty cool person. At the restaurant, to Riana and Kavya's 
+annoyance, Krish and I discussed English accents (his British is perfect) as well
 as British politics (opinions on Brexit?)
 
 Later, since Peter had already left, everyone else took a taxi while Kunal drove Riana and me home.

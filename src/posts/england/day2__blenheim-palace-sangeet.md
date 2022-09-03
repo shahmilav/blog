@@ -12,7 +12,6 @@ minutes from Oxford. After that, we drove an hour to Leicester.
 
 Our first stop was Blenheim palace. Best known as the birthplace of Winston
 Churchill, Kunal mentioned that it was more beautiful than Buckingham Palace.
-He was right (Although I haven't seen Buckingham _yet_).
 
 Blenheim was beautiful, though. Built in the year 1705 by the 1st Duke of Marlborough 
 after he won the Battle of Blenheim, it has been their home ever since (even 
@@ -34,21 +33,19 @@ back tomorrow (Saturday) to explore the rest.
 ## Sangeet
 ![My cousins and my sister at the Sangeet](/images/england2022/sangeet.png)
 
-After Blenheim, we drove to the hotel. It was _exactly_ as I expected. No AC, a 
-pain to get cold water, and pillows that could pass as pudding.
+After Blenheim, we drove to the hotel. From there we took a coach bus to the sangeet venue.
 
-The hotel was terrible, but the sangeet was pretty good! We took a coach bus 
-to the venue, and I fell asleep on the bus. Aatman was so sleepy; he slept for
-two hours (one on my lap) in the sangeet!
+The sangeet was pretty good! This was my first wedding so I didn't know what to expect. I ended up having lots of fun.
 
 There was dancing (we didn't perform, though), good food, and tons of family I hadn't met for a long time. I met Birenkaka, Bhavinkaka, and the groom, 
 Kushanmama. There were a bunch of other relatives I know, like Radhika & Nick.
 
 Towards the middle, Kavya, Aarush, Aatman, Riana, and I went outside to talk and 
-play. I took so many lovely pictures. I take all the pictures on my blog (as of
-now).
+play. I took so many great pictures.
 
 As fun as it was, we were exhausted in the end. It ended at around 11:30, and 
 our sleep schedule was already messed up. Everyone slept on the coach bus and
-changed quickly at home. The pillows sucked, but that doesn’t matter. I slept as
-soon as I fell on the bed.
+changed quickly at home. I slept as soon as I fell on the bed.
+
+<sub style="font-family: Georgia, Times, serif; color: grey"><code>[1]</code> 
+Hadrian is the Roman Emperor who had the largest influence on Britain.</sub>

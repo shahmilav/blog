@@ -44,10 +44,12 @@ We arrived at the Stonehenge bus stop; from there, they take you on buses to Sto
 
 At first, Stonehenge was hidden beneath a large hill. To our left was a large stretch of open land with two Neolithic burial mounds in the center. In front of us was a bunch of tall grass. As we walked closer along the path, we saw the Sarsen stone peak out from under the hill. 
 
-We approached Stonehenge and looked at the ancient monument. Built in about 3000 BC, without the help of modern technology such as the wheel, it was a sight to behold. Sarsen stones that weigh tons, brought from 20 miles south from the site, were lifted and arranged wonderfully. Perfectly marking the Summer and Winter solstices, it was magnificent.
+We approached Stonehenge and looked at the ancient monument. Built in about 3000 BC, without the help of modern technology such as the wheel, it was a sight to behold. Sarsen stones that weigh tons, brought from 20 miles south from the site, were lifted and arranged wonderfully. Perfectly marking the Summer and Winter solstices, it was magnificent. 
 
 The area simply had an ancient feel. Day felt it, I felt it, and I'm sure everyone else did. It was remarkable.
 
 People in the area were pretty weird, too - one old couple mentioned that aliens built this to suck energy from the Earth. Another was meditating, someone else praying as if this was still a religious shrine as it was 5000 years ago.
 
 After about an hour at the site, we took the bus back to the station, and drove to Windsor. We had a two hour drive to Crowne Plaza, and the next day was long, since we had to do Windsor Castle and Buckingham Palace.
+
+The adults had drinks at the bar at the hotel, so all of us kids had lots of fun until about 2am. No one wanted to sleep.
