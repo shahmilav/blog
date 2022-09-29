@@ -8,7 +8,7 @@ This was a day when everyone did what they wanted, and it was definitely my favo
 
 ## Westminster Abbey
 
-First, we went to the British Museum. We took the hop-on hop-off bus to the stop at Covent Garden, from which you can walk to the museum, but my last-minute research using the bus wifi made me change the plan. _We should go to the Westminster Abbey first since that closes first!_
+First, we decided to go to the to the British Museum. We took the hop-on hop-off bus to the stop at Covent Garden, from which you can walk to the museum, but my last-minute research using the bus wifi made me change the plan. _We should go to the Westminster Abbey first since that closes first!_
 
 We did just that and got off at the Westminster station. From here, we had an excellent view of Big Ben and the Houses of Parliament.
 
@@ -16,7 +16,7 @@ We walked towards Big Ben. It looked stunning, and I am happy the scaffolding fr
 
 Westminster Abbey was right next to the Houses of Parliament. One of the main reasons I wanted to go was that it was the burial place of many influential people, including Sir Isaac Newton, Charles Darwin, and numerous members of British royalty.
 
-I saw the tombstones of many, many people. Westminster Abbey was a place for meaningful, famous, and royal people to be buried. There was even a memorial for Winston Churchill, who is not buried here but near Blenheim Palace.
+I saw the tombstones of many, many people. Westminster Abbey was a place for meaningful, famous, and royal people to be buried. There was even a lmemorial for Winston Churchill, who is not buried here but near Blenheim Palace.
 
 We then saw Newton's tombstone, the most decorated one. There was a massive statue, and underneath our feet, right where I was standing, _him_. Newton, technically his body, was less than 5 feet below me. It felt weird.
 
@@ -42,7 +42,7 @@ When we entered the trip, we found that the maps cost £2. Since the museum was 
 
 I had a mental list of what I wanted to see: the Parthenon marbles, the Rosetta stone, etc. We first saw the Rosetta stone. I won't get into the history, but this was one of the most influential rocks ever found. It led the way in decoding other Egyptian rocks. It is a rock that helped translate other stones.
 
-I spent a lot of time in the Egypt exhibit, but it was huge. Sphinxes, sarcophagi, and like ten busts of Amenhotep III.
+I spent a lot of time in the Egypt exhibit since it was huge. Sphinxes, sarcophagi, and like ten busts of Amenhotep III.
 
 
 ### Greece
@@ -63,7 +63,7 @@ Further down the room, there was Buddhist stuff. There were remains from the Bud
 
 The museum was closing in about fifteen minutes, so we were slowly leaving. And just then, I saw something on my map. 
 
-The Standard of Ur is something we learned about in Sixth Grade. The history is irrelevant, but I really wanted to see it. So I did the only logical thing - run up three floors to quickly take a look, then somehow find Mumma and Day downstairs.
+The Standard of Ur is something we learned about in sixth grade. The history is irrelevant, but I really wanted to see it. So I did the only logical thing - run up three floors to quickly take a look, then somehow find Mumma and Day downstairs.
 
 The Standard is amazing, and I wish I had known about it before so I could properly appreciate it. After looking at it for about two minutes, I ran back downstairs. However, the China door we entered earlier was locked! Mumma and Day were inside, and they could leave, but since it was closing time, I could not enter. 
 

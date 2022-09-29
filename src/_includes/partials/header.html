@@ -1,7 +1,7 @@
 <header>
   <nav
-    class="navbar navbar-expand-lg navbar-dark"
-    style="background-color: #1d2127"
+    class="navbar navbar-expand-lg navbar"
+    id="nav"
   >
     <div class="container-fluid">
       <button
@@ -17,14 +17,14 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
         <a
-          class="navbar-brand dev"
+          class="navbar-brand dev nav-text"
           href="/"
           >../</a
         >
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
             <a
-              class="nav-link dev"
+              class="nav-link dev nav-text"
               href="/posts/"
             
               >archive</a
@@ -32,7 +32,7 @@
           </li>
           <li class="nav-item">
             <a
-              class="nav-link dev"
+              class="nav-link dev nav-text"
               href="/whoami/"
               
               >whoami</a
@@ -40,17 +40,18 @@
           </li>
         </ul>
 
-        <div class="toggle">
+        <div class="toggle form-switch">
           <input
             type="checkbox"
+            role="switch"
             id="theme"
             class="toggle-input form-check-input"
           />
           <label
             for="theme"
-            class="toggle-label text-light dev"
+            class="toggle-label dev"
           >
-./dark
+          ./dark
           </label>
         </div>
        

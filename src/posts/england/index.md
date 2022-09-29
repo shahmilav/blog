@@ -1,5 +1,5 @@
 ---
-title: "England 2022 trip overview"
+title: "England 2022 trip overview 🇬🇧"
 date: 2022-08-26 23:00:00
 tagged: ["travel", "london2022"]
 ---
