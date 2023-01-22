@@ -40,11 +40,11 @@ Lastly came the final one. The crown of Queen Elizabeth The Queen Mother. It was
 
 It was huge. I had to go on the conveyor belt again to properly gauge the jewels' value and beauty.
 
-Later, we learned that the Koh-i-Noor had been surrendered by eleven-year-old Maharaja Duleep Singh and his Punjabi Kingdom to Queen Victoria.
+Later, we learned that the Koh-i-Noor had been surrendered by eleven-year-old Maharaja Duleep Singh to Queen Victoria as part of the Treaty of Lahore. Singh also surrendered his entire Punjabi Kingdom.
 
 ### The White Tower
 
-By this time, it was raining. We quickly visited a small museum that showed off British military success, and then went towards the White Tower. We also met Sonalkaki here as well.
+By this time, it was raining. We quickly visited a small museum that showed off British military success, and then went towards the White Tower. We met Sonalkaki here as well.
 
 There was a line to go up the tower, but it wasn't that bad, especially since the rain slowed to a drizzle. 
 

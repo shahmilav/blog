@@ -6,7 +6,7 @@
 }
 
 .dark {
-  --main-bg-color: black;
+  --main-bg-color: #202124;
   --main-content-color: white;
   --main-link-color: #00a4ff;
   --main-dim-color: #b5b6b7;
@@ -18,10 +18,17 @@
   color: var(--main-dim-color);
 }
 
+
 .nav-text {
     color: var(--main-dim-color);
 
 }
+
+.nav-text:hover {
+    color: var(--main-content-color);
+
+}
+
 
 .dev {
   font-family: ui-monospace, "SFMono-Regular" , "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
@@ -98,8 +105,11 @@ code {
 }
 
 img {
-  width: 100%;
-}
+  width: 70%;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
 
 .caption {
   font-family: Georgia, Times, serif;
